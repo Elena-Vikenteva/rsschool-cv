@@ -54,9 +54,11 @@ for( r = 0; r <row; r++){
 ```
 
 
+
 # **Education:**
 * **Institute:** Belarusian Institute of Entrepreneurship
 * **Courses:**  ООО "Adukar" Web-development
+
 
 
 # **Languages:**
