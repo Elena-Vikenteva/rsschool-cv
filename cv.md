@@ -42,6 +42,7 @@ Get a job at the frontend IT company as a frontend developer.
 * Vue.js Basics
 
 
+
 # **Code example:**
 ```
 let board = [];
